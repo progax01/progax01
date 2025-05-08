@@ -2,7 +2,7 @@
 <h3 align="center">Blockchain Developer | DeFi Protocol Architect | Co-Founder @ SETU 🌉</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anurag-sahu-644a43202/" target="_blank">
+  <a href="" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/progax01" target="_blank">
